@@ -1,1 +1,1 @@
-var val = 2;
+var val = 1;
